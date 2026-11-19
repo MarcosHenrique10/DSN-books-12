@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="10277ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Sofia -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10277ms" clipEnd="11007ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- the -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="11007ms" clipEnd="11127ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- First -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="11127ms" clipEnd="12237ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Written -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="12237ms" clipEnd="12627ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12627ms" clipEnd="12787ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Catherine -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="12787ms" clipEnd="13217ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Hapka -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13217ms" clipEnd="14307ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14307ms" clipEnd="14897ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="14897ms" clipEnd="15097ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Grace -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="15097ms" clipEnd="15537ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Lee -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="15537ms" clipEnd="15837ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id11g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="15837ms" clipEnd="16731ms" src="../audio/9781423186823.m4a"/>
+    </par>
+  </body>
+</smil>

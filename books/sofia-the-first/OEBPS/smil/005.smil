@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id39g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="31382ms" clipEnd="32077ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- and -->
+      <text src="../005.xhtml#w39"/>
+      <audio clipBegin="32077ms" clipEnd="32277ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- Sofia -->
+      <text src="../005.xhtml#w40"/>
+      <audio clipBegin="32277ms" clipEnd="33287ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- is -->
+      <text src="../005.xhtml#w41"/>
+      <audio clipBegin="33287ms" clipEnd="33457ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- a -->
+      <text src="../005.xhtml#w42"/>
+      <audio clipBegin="33457ms" clipEnd="33527ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- princess -->
+      <text src="../005.xhtml#w43"/>
+      <audio clipBegin="33527ms" clipEnd="34347ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id43g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="34347ms" clipEnd="35125ms" src="../audio/9781423186823.m4a"/>
+    </par>
+  </body>
+</smil>

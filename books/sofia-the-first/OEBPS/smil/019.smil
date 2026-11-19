@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id346g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="193062ms" clipEnd="193757ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id346">
+      <!-- All -->
+      <text src="../019.xhtml#w346"/>
+      <audio clipBegin="193757ms" clipEnd="194177ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id347">
+      <!-- hail -->
+      <text src="../019.xhtml#w347"/>
+      <audio clipBegin="194177ms" clipEnd="194717ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id348">
+      <!-- Princess -->
+      <text src="../019.xhtml#w348"/>
+      <audio clipBegin="194717ms" clipEnd="195307ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id349">
+      <!-- Sofia -->
+      <text src="../019.xhtml#w349"/>
+      <audio clipBegin="195307ms" clipEnd="196657ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id350">
+      <!-- says -->
+      <text src="../019.xhtml#w350"/>
+      <audio clipBegin="196657ms" clipEnd="197067ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id351">
+      <!-- Baileywick -->
+      <text src="../019.xhtml#w351"/>
+      <audio clipBegin="197067ms" clipEnd="198267ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id352">
+      <!-- as -->
+      <text src="../019.xhtml#w352"/>
+      <audio clipBegin="198267ms" clipEnd="198397ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id353">
+      <!-- Sofia -->
+      <text src="../019.xhtml#w353"/>
+      <audio clipBegin="198397ms" clipEnd="199077ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id354">
+      <!-- enters -->
+      <text src="../019.xhtml#w354"/>
+      <audio clipBegin="199077ms" clipEnd="199497ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id355">
+      <!-- the -->
+      <text src="../019.xhtml#w355"/>
+      <audio clipBegin="199497ms" clipEnd="199587ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id356">
+      <!-- ballroom -->
+      <text src="../019.xhtml#w356"/>
+      <audio clipBegin="199587ms" clipEnd="201187ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id357">
+      <!-- Shall -->
+      <text src="../019.xhtml#w357"/>
+      <audio clipBegin="201187ms" clipEnd="201497ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id358">
+      <!-- we -->
+      <text src="../019.xhtml#w358"/>
+      <audio clipBegin="201497ms" clipEnd="201667ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id359">
+      <!-- dance -->
+      <text src="../019.xhtml#w359"/>
+      <audio clipBegin="201667ms" clipEnd="202877ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id360">
+      <!-- the -->
+      <text src="../019.xhtml#w360"/>
+      <audio clipBegin="202877ms" clipEnd="202957ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id361">
+      <!-- king -->
+      <text src="../019.xhtml#w361"/>
+      <audio clipBegin="202957ms" clipEnd="203307ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id362">
+      <!-- says -->
+      <text src="../019.xhtml#w362"/>
+      <audio clipBegin="203307ms" clipEnd="203957ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id362g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="203957ms" clipEnd="204651ms" src="../audio/9781423186823.m4a"/>
+    </par>
+  </body>
+</smil>

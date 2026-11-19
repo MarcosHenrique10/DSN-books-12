@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id40g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="32870ms" clipEnd="33295ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- Lately -->
+      <text src="../005.xhtml#w40"/>
+      <audio clipBegin="33295ms" clipEnd="34075ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- Sofia -->
+      <text src="../005.xhtml#w41"/>
+      <audio clipBegin="34075ms" clipEnd="34595ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- has -->
+      <text src="../005.xhtml#w42"/>
+      <audio clipBegin="34595ms" clipEnd="34815ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- been -->
+      <text src="../005.xhtml#w43"/>
+      <audio clipBegin="34815ms" clipEnd="34975ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- reading -->
+      <text src="../005.xhtml#w44"/>
+      <audio clipBegin="34975ms" clipEnd="35315ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- about -->
+      <text src="../005.xhtml#w45"/>
+      <audio clipBegin="35315ms" clipEnd="35635ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id46">
+      <!-- mermaids -->
+      <text src="../005.xhtml#w46"/>
+      <audio clipBegin="35635ms" clipEnd="37145ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- She -->
+      <text src="../005.xhtml#w47"/>
+      <audio clipBegin="37145ms" clipEnd="37365ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- hopes -->
+      <text src="../005.xhtml#w48"/>
+      <audio clipBegin="37365ms" clipEnd="37735ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- they'll -->
+      <text src="../005.xhtml#w49"/>
+      <audio clipBegin="37735ms" clipEnd="37895ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- see -->
+      <text src="../005.xhtml#w50"/>
+      <audio clipBegin="37895ms" clipEnd="38165ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- one -->
+      <text src="../005.xhtml#w51"/>
+      <audio clipBegin="38165ms" clipEnd="38355ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- at -->
+      <text src="../005.xhtml#w52"/>
+      <audio clipBegin="38355ms" clipEnd="38465ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id53">
+      <!-- the -->
+      <text src="../005.xhtml#w53"/>
+      <audio clipBegin="38465ms" clipEnd="38545ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- cove -->
+      <text src="../005.xhtml#w54"/>
+      <audio clipBegin="38545ms" clipEnd="40165ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- But -->
+      <text src="../005.xhtml#w55"/>
+      <audio clipBegin="40165ms" clipEnd="40305ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- her -->
+      <text src="../005.xhtml#w56"/>
+      <audio clipBegin="40305ms" clipEnd="40425ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id57">
+      <!-- Dad -->
+      <text src="../005.xhtml#w57"/>
+      <audio clipBegin="40425ms" clipEnd="40855ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id58">
+      <!-- says -->
+      <text src="../005.xhtml#w58"/>
+      <audio clipBegin="40855ms" clipEnd="41595ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id59">
+      <!-- mermaids -->
+      <text src="../005.xhtml#w59"/>
+      <audio clipBegin="41595ms" clipEnd="42315ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id60">
+      <!-- aren't -->
+      <text src="../005.xhtml#w60"/>
+      <audio clipBegin="42315ms" clipEnd="42535ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- real -->
+      <text src="../005.xhtml#w61"/>
+      <audio clipBegin="42535ms" clipEnd="43135ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id61g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="43135ms" clipEnd="43962ms" src="../audio/9781423193661.m4a"/>
+    </par>
+  </body>
+</smil>

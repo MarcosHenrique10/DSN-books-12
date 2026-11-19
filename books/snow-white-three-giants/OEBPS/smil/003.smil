@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="8039ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- SNOW -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="8039ms" clipEnd="8609ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- WHITE -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="8609ms" clipEnd="9199ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- and -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="9199ms" clipEnd="9419ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- the -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="9419ms" clipEnd="9539ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- THREE -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="9539ms" clipEnd="10009ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- GiANTS -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="10009ms" clipEnd="11419ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- By -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="11419ms" clipEnd="11579ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Cherie -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="11579ms" clipEnd="12029ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Gosling -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="12029ms" clipEnd="13429ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="13429ms" clipEnd="14189ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- by -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="14189ms" clipEnd="14359ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Jordi -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="14359ms" clipEnd="15109ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Municio -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="15109ms" clipEnd="15709ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Planas -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="15709ms" clipEnd="16379ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id14g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="16379ms" clipEnd="17434ms" src="../audio/9781484743966.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="8715ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="8715ms" clipEnd="9255ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Princess -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="9255ms" clipEnd="11135ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- SnowWhite's -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="11135ms" clipEnd="12225ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Royal -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="12225ms" clipEnd="12715ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Wedding -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12715ms" clipEnd="13865ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Illustrations -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13865ms" clipEnd="14815ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="14815ms" clipEnd="15185ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- The -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="15185ms" clipEnd="15305ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Disney -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="15305ms" clipEnd="15835ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="15835ms" clipEnd="16505ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Artists -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="16505ms" clipEnd="17255ms" src="../audio/9781484752968.m4a"/>
+    </par>
+    <par id="id11g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="17255ms" clipEnd="18276ms" src="../audio/9781484752968.m4a"/>
+    </par>
+  </body>
+</smil>

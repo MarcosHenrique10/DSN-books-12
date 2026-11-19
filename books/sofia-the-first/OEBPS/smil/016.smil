@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="par1">
+<text src="../016.xhtml#w258"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="145.28s" clipEnd="146.04s"/>
+</par>
+<par id="par2">
+<text src="../016.xhtml#w259"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="146.04s" clipEnd="147.15s"/>
+</par>
+<par id="par3">
+<text src="../016.xhtml#w266"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="147.15s" clipEnd="147.97s"/>
+</par>
+<par id="par4">
+<text src="../016.xhtml#w267"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="147.97s" clipEnd="148.44s"/>
+</par>
+<par id="par5">
+<text src="../016.xhtml#w268"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="148.44s" clipEnd="149.24s"/>
+</par>
+<par id="par6">
+<text src="../016.xhtml#w269"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="149.24s" clipEnd="149.85s"/>
+</par>
+<par id="par7">
+<text src="../016.xhtml#w270"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="149.85s" clipEnd="150.42s"/>
+</par>
+<par id="par8">
+<text src="../016.xhtml#w271"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="150.42s" clipEnd="150.68s"/>
+</par>
+<par id="par9">
+<text src="../016.xhtml#w272"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="150.68s" clipEnd="151.13s"/>
+</par>
+<par id="par10">
+<text src="../016.xhtml#w273"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="151.13s" clipEnd="151.28s"/>
+</par>
+<par id="par11">
+<text src="../016.xhtml#w274"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="151.28s" clipEnd="151.85s"/>
+</par>
+<par id="par12">
+<text src="../016.xhtml#w275"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="151.85s" clipEnd="152.75s"/>
+</par>
+<par id="par13">
+<text src="../016.xhtml#w276"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="152.75s" clipEnd="153.21s"/>
+</par>
+<par id="par14">
+<text src="../016.xhtml#w277"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="153.21s" clipEnd="153.60s"/>
+</par>
+<par id="par15">
+<text src="../016.xhtml#w278"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="153.60s" clipEnd="154.26s"/>
+</par>
+<par id="par16">
+<text src="../016.xhtml#w279"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="154.26s" clipEnd="154.85s"/>
+</par>
+<par id="par17">
+<text src="../016.xhtml#w280"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="154.85s" clipEnd="155.01s"/>
+</par>
+<par id="par18">
+<text src="../016.xhtml#w281"/>
+<audio src="../audio/9781423186823.m4a" clipBegin="155.01s" clipEnd="156.18s"/>
+</par>
+</body>
+</smil>

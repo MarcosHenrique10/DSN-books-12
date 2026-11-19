@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id48g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="40509ms" clipEnd="41428ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- Baileywick -->
+      <text src="../006.xhtml#w48"/>
+      <audio clipBegin="41428ms" clipEnd="42138ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- introduces -->
+      <text src="../006.xhtml#w49"/>
+      <audio clipBegin="42138ms" clipEnd="43318ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- Sascha -->
+      <text src="../006.xhtml#w50"/>
+      <audio clipBegin="43318ms" clipEnd="43868ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- the -->
+      <text src="../006.xhtml#w51"/>
+      <audio clipBegin="43868ms" clipEnd="43988ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- sorceress -->
+      <text src="../006.xhtml#w52"/>
+      <audio clipBegin="43988ms" clipEnd="45568ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id53">
+      <!-- I've -->
+      <text src="../006.xhtml#w53"/>
+      <audio clipBegin="45568ms" clipEnd="45758ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- come -->
+      <text src="../006.xhtml#w54"/>
+      <audio clipBegin="45758ms" clipEnd="46098ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- to -->
+      <text src="../006.xhtml#w55"/>
+      <audio clipBegin="46098ms" clipEnd="46218ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- pay -->
+      <text src="../006.xhtml#w56"/>
+      <audio clipBegin="46218ms" clipEnd="46428ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id57">
+      <!-- my -->
+      <text src="../006.xhtml#w57"/>
+      <audio clipBegin="46428ms" clipEnd="46648ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id58">
+      <!-- respects -->
+      <text src="../006.xhtml#w58"/>
+      <audio clipBegin="46648ms" clipEnd="47238ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id59">
+      <!-- to -->
+      <text src="../006.xhtml#w59"/>
+      <audio clipBegin="47238ms" clipEnd="47388ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id60">
+      <!-- the -->
+      <text src="../006.xhtml#w60"/>
+      <audio clipBegin="47388ms" clipEnd="47498ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- great -->
+      <text src="../006.xhtml#w61"/>
+      <audio clipBegin="47498ms" clipEnd="47958ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id62">
+      <!-- King -->
+      <text src="../006.xhtml#w62"/>
+      <audio clipBegin="47958ms" clipEnd="48338ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id63">
+      <!-- Roland -->
+      <text src="../006.xhtml#w63"/>
+      <audio clipBegin="48338ms" clipEnd="49418ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id64">
+      <!-- the -->
+      <text src="../006.xhtml#w64"/>
+      <audio clipBegin="49418ms" clipEnd="49538ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id65">
+      <!-- sorceress -->
+      <text src="../006.xhtml#w65"/>
+      <audio clipBegin="49538ms" clipEnd="50088ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id66">
+      <!-- says -->
+      <text src="../006.xhtml#w66"/>
+      <audio clipBegin="50088ms" clipEnd="50668ms" src="../audio/9781423189725.m4a"/>
+    </par>
+    <par id="id66g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="50668ms" clipEnd="51353ms" src="../audio/9781423189725.m4a"/>
+    </par>
+  </body>
+</smil>

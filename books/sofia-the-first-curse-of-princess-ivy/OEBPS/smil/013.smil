@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id299g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="149475ms" clipEnd="149955ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id299">
+      <!-- Give -->
+      <text src="../013.xhtml#w299"/>
+      <audio clipBegin="149955ms" clipEnd="150235ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id300">
+      <!-- that -->
+      <text src="../013.xhtml#w300"/>
+      <audio clipBegin="150235ms" clipEnd="150575ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id301">
+      <!-- back -->
+      <text src="../013.xhtml#w301"/>
+      <audio clipBegin="150575ms" clipEnd="151565ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id302">
+      <!-- Sofia -->
+      <text src="../013.xhtml#w302"/>
+      <audio clipBegin="151565ms" clipEnd="152085ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id303">
+      <!-- cries -->
+      <text src="../013.xhtml#w303"/>
+      <audio clipBegin="152085ms" clipEnd="152725ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id303g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="152725ms" clipEnd="154398ms" src="../audio/9781423193869.m4a"/>
+    </par>
+  </body>
+</smil>

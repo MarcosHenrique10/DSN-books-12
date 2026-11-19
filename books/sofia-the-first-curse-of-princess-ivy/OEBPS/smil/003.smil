@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="8465ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Sofia -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="8465ms" clipEnd="9005ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- the -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="9005ms" clipEnd="9115ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- First -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="9115ms" clipEnd="10245ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- The -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="10245ms" clipEnd="10335ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Curse -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="10335ms" clipEnd="10905ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- of -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="10905ms" clipEnd="11055ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Princess -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="11055ms" clipEnd="11685ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Ivy -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="11685ms" clipEnd="12695ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Written -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="12695ms" clipEnd="12985ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="12985ms" clipEnd="13185ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Craig -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="13185ms" clipEnd="13555ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Gerber -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="13555ms" clipEnd="14055ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- and -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="14055ms" clipEnd="14235ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Catherine -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="14235ms" clipEnd="14605ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Hapka -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="14605ms" clipEnd="15695ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Based -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="15695ms" clipEnd="16045ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- on -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="16045ms" clipEnd="16165ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- an -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="16165ms" clipEnd="16265ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- episode -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="16265ms" clipEnd="16825ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- by -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="16825ms" clipEnd="17095ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Erica -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="17095ms" clipEnd="17495ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- Rothschild -->
+      <text src="../003.xhtml#w22"/>
+      <audio clipBegin="17495ms" clipEnd="18665ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w23"/>
+      <audio clipBegin="18665ms" clipEnd="19265ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- by -->
+      <text src="../003.xhtml#w24"/>
+      <audio clipBegin="19265ms" clipEnd="19435ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- Grace -->
+      <text src="../003.xhtml#w25"/>
+      <audio clipBegin="19435ms" clipEnd="19825ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- Lee -->
+      <text src="../003.xhtml#w26"/>
+      <audio clipBegin="19825ms" clipEnd="20185ms" src="../audio/9781423193869.m4a"/>
+    </par>
+    <par id="id26g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="20185ms" clipEnd="21402ms" src="../audio/9781423193869.m4a"/>
+    </par>
+  </body>
+</smil>

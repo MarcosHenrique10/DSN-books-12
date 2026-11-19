@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1b">
+      <!-- SPOKEN TITLE -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="8453ms" clipEnd="12567ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="12567ms" clipEnd="13025ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13025ms" clipEnd="13205ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Catherine -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="13205ms" clipEnd="13645ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Hapka -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="13645ms" clipEnd="15005ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15005ms" clipEnd="15565ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15565ms" clipEnd="15755ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Grace -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="15755ms" clipEnd="16175ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Lee -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="16175ms" clipEnd="16525ms" src="../audio/9781423193661.m4a"/>
+    </par>
+    <par id="id8g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="16525ms" clipEnd="17467ms" src="../audio/9781423193661.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id390g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="231679ms" clipEnd="232349ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id390">
+			<!-- SNAP -->
+			<text src="../021.xhtml#w390"/>
+			<audio clipBegin="232349ms" clipEnd="233389ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id391">
+			<!-- yelled -->
+			<text src="../021.xhtml#w391"/>
+			<audio clipBegin="233389ms" clipEnd="233759ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id392">
+			<!-- the -->
+			<text src="../021.xhtml#w392"/>
+			<audio clipBegin="233759ms" clipEnd="233869ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id393">
+			<!-- Dwarfs -->
+			<text src="../021.xhtml#w393"/>
+			<audio clipBegin="233869ms" clipEnd="235109ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id394">
+			<!-- SNAP -->
+			<text src="../021.xhtml#w394"/>
+			<audio clipBegin="235109ms" clipEnd="236509ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id395">
+			<!-- yelled -->
+			<text src="../021.xhtml#w395"/>
+			<audio clipBegin="236509ms" clipEnd="236919ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id396">
+			<!-- the -->
+			<text src="../021.xhtml#w396"/>
+			<audio clipBegin="236919ms" clipEnd="236999ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id397">
+			<!-- giants -->
+			<text src="../021.xhtml#w397"/>
+			<audio clipBegin="236999ms" clipEnd="237779ms" src="../audio/9781484743966.m4a"/>
+		</par>
+		<par id="id397g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="237779ms" clipEnd="238804ms" src="../audio/9781484743966.m4a"/>
+		</par>
+	</body>
+</smil>

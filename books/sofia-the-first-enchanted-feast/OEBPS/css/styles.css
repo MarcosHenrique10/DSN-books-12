@@ -1,0 +1,240 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"liam-regular";
+	src: url(../fonts/Liam.otf);
+}
+@font-face {
+	font-family:"pinch-regular";
+	src: url(../fonts/Pinch.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+.font-1 {
+	font-family:"pinch-regular";
+	font-size:17px;
+	line-height:18px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:11px;
+	line-height:18px;
+}
+.font-3 {
+	font-family:"pinch-regular";
+	font-size:17px;
+	line-height:20px;
+}
+.font-4 {
+	font-family:"pinch-regular";
+	font-size:24px;
+	line-height:33px;
+}
+.font-5 {
+	font-family:"liam-regular";
+	font-size:24px;
+	line-height:33px;
+}
+.font-6 {
+	font-family:"liam-regular";
+	font-size:24px;
+	line-height:30px;
+}
+.font-7 {
+	font-family:"liam-regular";
+	font-size:24px;
+	line-height:12px;
+}
+.font-8 {
+	font-family:"pinch-regular";
+	font-size:33px;
+	line-height:44px;
+}
+.font-9 {
+	font-family:"pinch-regular";
+	font-size:44px;
+	line-height:44px;
+}
+.font-10 {
+	font-family:"pinch-regular";
+	font-size:56px;
+	line-height:44px;
+}
+.font-11 {
+	font-family:"liam-regular";
+	font-size:103px;
+	line-height:110px;
+}
+.font-12 {
+	font-family:"pinch-regular";
+	font-size:74px;
+	line-height:50px;
+}
+.font-13 {
+	font-family:"liam-regular";
+	font-size:45px;
+	line-height:44px;
+}
+.font-14 {
+	font-family:"pinch-regular";
+	font-size:63px;
+	line-height:47px;
+}
+.font-15 {
+	font-family:"pinch-regular";
+	font-size:38px;
+	line-height:44px;
+}
+.font-16 {
+	font-family:"liam-regular";
+	font-size:32px;
+	line-height:44px;
+}
+.font-17 {
+	font-family:"liam-regular";
+	font-size:54px;
+	line-height:44px;
+}
+.font-18 {
+	font-family:"pinch-regular";
+	font-size:56px;
+	line-height:56px;
+}
+.font-19 {
+	font-family:"pinch-regular";
+	font-size:73px;
+	line-height:56px;
+}
+.font-20 {
+	font-family:"pinch-regular";
+	font-size:83px;
+	line-height:75px;
+}
+.font-21 {
+	font-family:"pinch-regular";
+	font-size:73px;
+	line-height:56px;
+}
+.font-22 {
+	font-family:"pinch-regular";
+	font-size:44px;
+	line-height:53px;
+}
+.font-23 {
+	font-family:"pinch-regular";
+	font-size:55px;
+	line-height:53px;
+}
+.font-24 {
+	font-family:"pinch-regular";
+	font-size:75px;
+	line-height:89px;
+}
+.font-25 {
+	font-family:"liam-regular";
+	font-size:39px;
+	line-height:45px;
+}
+.font-26 {
+	font-family:"liam-regular";
+	font-size:69px;
+	line-height:45px;
+}
+.font-27 {
+	font-family:"liam-regular";
+	font-size:77px;
+	line-height:50px;
+}
+.font-28 {
+	font-family:"liam-regular";
+	font-size: 176px;
+	line-height: 212px;
+}
+.font-29 {
+	font-family:"liam-regular";
+	font-size: 57px;
+	line-height: 68px;
+}
+.font-30 {
+	font-family:"liam-regular";
+	font-size: 75px;
+	line-height: 89px;
+}
+.font-31 {
+	font-family:"liam-regular";
+	font-size: 36px;
+	line-height: 34px;
+}
+.font-32 {
+	font-family:"liam-regular";
+	font-size: 71px;
+	line-height: 34px;
+}
+.font-33 {
+	font-family:"liam-regular";
+	font-size: 55px;
+	line-height: 52px;
+}
+.font-34 {
+	font-family:"liam-regular";
+	font-size: 47px;
+	line-height: 44px;
+}
+.font-35 {
+	font-family:"liam-regular";
+	font-size: 97px;
+	line-height: 105px;
+}
+.font-36 {
+	font-family:"pinch-regular";
+	font-size: 61px;
+	line-height: 48px;
+}
+.font-37 {
+	font-family:"liam-regular";
+	font-size: 75px;
+	line-height: 80px;
+}
+.font-38 {
+	font-family:"liam-regular";
+	font-size: 104px;
+	line-height: 107px;
+}
+.font-39 {
+	font-family:"liam-regular";
+	font-size: 53px;
+	line-height: 76px;
+}
+.font-40 {
+	font-family:"liam-regular";
+	font-size: 69px;
+	line-height: 44px;
+}
+img.hidden-image { display: none; }
+tspan { fill: #50337F; }
+.tspan-fill-black tspan { fill: #000; }
+.tspan-fill-pink, 
+.tspan-fill-pink tspan { fill: #c31a7f; }
+
+.margin-top-pt5em { margin-top: 0.5em !important; }
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+tspan.media-overlay-active { fill:#f00 !important; } /* For audio books with SVG */
+img.hidden-image.media-overlay-active { display: block; }
+.page, .page img { width:738px; height:949px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:949px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:949px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/

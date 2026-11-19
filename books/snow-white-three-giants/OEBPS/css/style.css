@@ -1,0 +1,540 @@
+img{z-index:-1;}body {
+	width: 741px;
+	height: 1010px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 741px;
+	height: 1010px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}@font-face
+{
+  font-family: "AgedBook";
+  src: url(../fonts/AgedBook.ttf);
+}
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}@font-face
+{
+  font-family: "Liam";
+  src: url(../fonts/Liam.otf);
+}
+p.nonindent
+{
+	font-family: "Liam";
+	font-size: 34px;
+	line-height: 37px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}p.indent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 795px;
+	left: 75px;
+	right: 0px;
+width: 587px;height: 178px;}
+div.page3_item1{
+	position: absolute;
+	top: 835px;
+	left: 163px;
+	right: 0px;
+width: 411px;height: 71px;}
+div.page3_item2{
+	position: absolute;
+	top: 962px;
+	left: 298px;
+	right: 0px;
+width: 151px;height: 18px;}
+div.page4_item1{
+	position: absolute;
+	top: 93px;
+	left: 177px;
+	right: 0px;
+width: 522px;height: 174px;}
+div.page6_item1{
+	position: absolute;
+	top: 877px;
+	left: 131px;
+	right: 0px;
+width: 519px;height: 62px;}
+div.page7_item1{
+	position: absolute;
+	top: 94px;
+	left: 56px;
+	right: 0px;
+width: 454px;height: 87px;}
+div.page7_item2{
+	position: absolute;
+	top: 840px;
+	left: 320px;
+	right: 0px;
+width: 384px;height: 126px;}
+div.page8_item1{
+	position: absolute;
+	top: 615px;
+	left: 247px;
+	right: 0px;
+width: 470px;height: 119px;}
+div.page9_item1{
+	position: absolute;
+	top: 53px;
+	left: 151px;
+	right: 0px;
+width: 537px;height: 137px;}
+div.page10_item1{
+	position: absolute;
+	top: 90px;
+	left: 190px;
+	right: 0px;
+width: 460px;height: 167px;}
+div.page11_item1{
+	position: absolute;
+	top: 916px;
+	left: 87px;
+	right: 0px;
+width: 600px;height: 40px;}
+div.page12_item1{
+	position: absolute;
+	top: 55px;
+	left: 126px;
+	right: 0px;
+width: 563px;height: 95px;}
+div.page12_item2{
+	position: absolute;
+	top: 878px;
+	left: 188px;
+	right: 0px;
+width: 459px;height: 97px;}
+div.page13_item1{
+	position: absolute;
+	top: 55px;
+	left: 90px;
+	right: 0px;
+width: 390px;height: 293px;}
+div.page14_item1{
+	position: absolute;
+	top: 54px;
+	left: 78px;
+	right: 0px;
+width: 592px;height: 204px;}
+div.page15_item1{
+	position: absolute;
+	top: 877px;
+	left: 273px;
+	right: 0px;
+width: 399px;height: 80px;}
+div.page16_item1{
+	position: absolute;
+	top: 502px;
+	left: 45px;
+	right: 0px;
+width: 478px;height: 93px;}
+div.page16_item2{
+	position: absolute;
+	top: 618px;
+	left: 322px;
+	right: 0px;
+width: 600px;height: 33px;}
+div.page16_item3{
+	position: absolute;
+	top: 765px;
+	left: 366px;
+	right: 0px;
+width: 654px;height: 41px;}
+div.page17_item1{
+	position: absolute;
+	top: 841px;
+	left: 109px;
+	right: 0px;
+width: 580px;height: 103px;}
+div.page18_item1{
+	position: absolute;
+	top: 54px;
+	left: 113px;
+	right: 0px;
+width: 564px;height: 162px;}
+div.page19_item1{
+	position: absolute;
+	top: 655px;
+	left: 65px;
+	right: 0px;
+width: 533px;height: 233px;}
+div.page20_item1{
+	position: absolute;
+	top: 880px;
+	left: 280px;
+	right: 0px;
+width: 226px;height: 40px;}
+div.page21_item1{
+	position: absolute;
+	top: 90px;
+	left: 58px;
+	right: 0px;
+width: 370px;height: 91px;}
+div.page22_item1{
+	position: absolute;
+	top: 879px;
+	left: 254px;
+	right: 0px;
+width: 280px;height: 41px;}
+div.page23_item1{
+	position: absolute;
+	top: 466px;
+	left: 214px;
+	right: 0px;
+width: 406px;height: 92px;}
+div.page24_item1{
+	position: absolute;
+	top: 877px;
+	left: 250px;
+	right: 0px;
+width: 318px;height: 49px;}
+div.page25_item1{
+	position: absolute;
+	top: 468px;
+	left: 283px;
+	right: 0px;
+width: 421px;height: 82px;}
+div.page26_item1{
+	position: absolute;
+	top: 762px;
+	left: 198px;
+	right: 0px;
+width: 410px;height: 205px;}
+p.copy
+{
+	font-family: "AgedBook";
+	font-size: 15px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 23px;
+	word-spacing: 1px;
+	color: #FFFFFF;
+}
+p.au
+{
+	font-family: "AgedBook";
+	font-size: 22px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #D2232B;
+}
+span.big1
+{
+font-size: 29px;
+margin-left: -5px;
+}
+
+span.arial
+{
+font-family: "Arial";
+font-size: 12px;
+}
+
+span.big_au
+{
+font-family: "AgedBook";
+font-size: 32px;
+-webkit-text-stroke: 1px;
+}
+
+
+p.au1
+{
+	font-family: "AgedBook";
+	font-size: 16px;
+	line-height: 12px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #D2232B;
+}
+
+
+span.big2
+{
+font-size: 28px;
+letter-spacing: 2px;
+}
+
+
+span.AgedBook
+{
+font-family: "AgedBook";
+}
+
+span.big
+{
+font-size: 35px;
+word-spacing: 5px;
+}
+
+span.big6
+{
+font-size: 35px;
+margin-left: 5px;
+letter-spacing: 6px;
+}
+
+span.big7
+{
+font-size: 35px;
+letter-spacing: 5px;
+}
+
+
+span.big9
+{
+font-size: 44px;
+}
+
+p.nonindent1
+{
+	font-family: "Liam";
+	font-size: 34px;
+	line-height: 37px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+
+span.big17
+{
+font-size: 36px;
+letter-spacing: 5px;
+}
+
+
+span.big21
+{
+font-size: 29px;
+letter-spacing: 2px;
+}
+
+
+span.big7a
+{
+font-size: 42px;
+letter-spacing: 4px;
+}
+
+
+span.big7b
+{
+font-size: 35px;
+letter-spacing: 4px;
+margin-left: 10px;
+}
+
+span.big7c
+{
+font-size: 35px;
+letter-spacing: 4px;
+position: absolute;
+margin-top: -5px;
+}
+
+span.left{
+margin-left: 12px;
+}
+
+span.left1{
+margin-left: -5px;
+}
+
+
+p.center
+{
+	font-family: "Liam";
+	font-size: 34px;
+	line-height: 37px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.big
+{
+	font-family: "Liam";
+	font-size: 42px;
+	line-height: 43px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+}
+
+
+span.big26
+{
+font-size: 28px;
+}
+
+span.big26a
+{
+font-size: 28px;
+letter-spacing: 2px;
+}
+
+
+.media-overlay-active
+{
+color:#f00 !important; fill:#f00 !important;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.media-overlay-active span.big1,
+.media-overlay-active span.left12,
+.media-overlay-active span.big2,
+.media-overlay-active span.AgedBook,
+.media-overlay-active span.big,
+.media-overlay-active span.big6,
+.media-overlay-active span.big7,
+.media-overlay-active span.big9,
+.media-overlay-active span.big17,
+.media-overlay-active span.big21,
+.media-overlay-active span.left,
+.media-overlay-active span.left2,
+.media-overlay-active span.left1,
+.media-overlay-active span.big26,
+.media-overlay-active span.big1a,
+.media-overlay-active span.left3,
+.media-overlay-active span.big26a
+{
+color:#f00 !important; fill:#f00 !important;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.media-overlay-active span.big_au,
+.media-overlay-active span.big_au1,
+.media-overlay-active span.big_au2,
+.media-overlay-active span.small_au
+{
+color:#800080 !important;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+
+span.small_au
+{
+font-size: 22px;
+}
+
+
+span.big1a
+{
+font-size: 29px;
+}
+
+.media-overlay-active span.big7a,
+.media-overlay-active span.big7b,
+.media-overlay-active span.big7c
+{
+color:#f00 !important;
+}
+
+
+span.left2{
+margin-left: 2px;
+}
+
+
+span.stickupcap1{
+position: absolute;
+top:-26px;
+left:-87px;
+right: 0px;
+opacity:0;
+}
+
+.media-overlay-active span.stickupcap1 
+{
+color:#f00 !important;
+opacity: 1;
+}
+
+
+span.big_au1
+{
+font-family: "AgedBook";
+font-size: 32px;
+-webkit-text-stroke: 1px;
+margin-left: 7px;
+}
+
+
+span.left3{
+margin-left: -5px;
+}
+
+span.left12
+{
+margin-left: -5px;
+padding-left: 5px;
+}
+
+/* extras */
+
+.m1 { margin-right: -17px; }
+.m2 { margin-left: -3px; }
+.m3 { margin-left: -12px; }
+.m4 { margin-left: 4px; }
+
+
+
+
+

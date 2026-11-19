@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id92g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="58142ms" clipEnd="58987ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id92">
+      <!-- Just -->
+      <text src="../008.xhtml#w92"/>
+      <audio clipBegin="58987ms" clipEnd="59387ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id93">
+      <!-- be -->
+      <text src="../008.xhtml#w93"/>
+      <audio clipBegin="59387ms" clipEnd="59527ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id94">
+      <!-- yourself -->
+      <text src="../008.xhtml#w94"/>
+      <audio clipBegin="59527ms" clipEnd="60557ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id95">
+      <!-- and -->
+      <text src="../008.xhtml#w95"/>
+      <audio clipBegin="60557ms" clipEnd="60697ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id96">
+      <!-- you'll -->
+      <text src="../008.xhtml#w96"/>
+      <audio clipBegin="60697ms" clipEnd="60857ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id97">
+      <!-- be -->
+      <text src="../008.xhtml#w97"/>
+      <audio clipBegin="60857ms" clipEnd="61047ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- fine -->
+      <text src="../008.xhtml#w98"/>
+      <audio clipBegin="61047ms" clipEnd="62117ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- her -->
+      <text src="../008.xhtml#w99"/>
+      <audio clipBegin="62117ms" clipEnd="62237ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- mom -->
+      <text src="../008.xhtml#w100"/>
+      <audio clipBegin="62237ms" clipEnd="62577ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id101">
+      <!-- tells -->
+      <text src="../008.xhtml#w101"/>
+      <audio clipBegin="62577ms" clipEnd="62987ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- her -->
+      <text src="../008.xhtml#w102"/>
+      <audio clipBegin="62987ms" clipEnd="63197ms" src="../audio/9781423186823.m4a"/>
+    </par>
+    <par id="id102g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="63197ms" clipEnd="63847ms" src="../audio/9781423186823.m4a"/>
+    </par>
+  </body>
+</smil>
