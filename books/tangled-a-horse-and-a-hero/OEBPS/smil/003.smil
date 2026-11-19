@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="12615ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="12615ms" clipEnd="12765ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Daisy -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="12765ms" clipEnd="13205ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Alberto -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="13205ms" clipEnd="14655ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14655ms" clipEnd="15336ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15336ms" clipEnd="15535ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Jean-Paul -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15535ms" clipEnd="16175ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <!-- 
+<par id="id7">
+      <!~~ Paul ~~>
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="15875ms" clipEnd="16175ms" src="../audio/9781423193340.m4a"/>
+    </par>
+ -->
+    <par id="id8">
+      <!-- Orpiñas -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="16175ms" clipEnd="17305ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Elena -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="17305ms" clipEnd="17645ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Naggi -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="17645ms" clipEnd="18735ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- and -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="18735ms" clipEnd="18925ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Studio -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="18925ms" clipEnd="19445ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- IBOIX -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="19445ms" clipEnd="20125ms" src="../audio/9781423193340.m4a"/>
+    </par>
+    <par id="id13g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="20125ms" clipEnd="20932ms" src="../audio/9781423193340.m4a"/>
+    </par>
+  </body>
+</smil>

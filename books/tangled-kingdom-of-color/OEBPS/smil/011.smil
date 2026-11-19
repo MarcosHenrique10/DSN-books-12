@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id43g">
+      <!--  -->
+      <text src="../011.xhtml#empty"/>
+      <audio clipBegin="43003ms" clipEnd="43285ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- Rapunzel -->
+      <text src="../011.xhtml#w43"/>
+      <audio clipBegin="43285ms" clipEnd="44075ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- wants -->
+      <text src="../011.xhtml#w44"/>
+      <audio clipBegin="44075ms" clipEnd="44485ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- to -->
+      <text src="../011.xhtml#w45"/>
+      <audio clipBegin="44485ms" clipEnd="44605ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id46">
+      <!-- see -->
+      <text src="../011.xhtml#w46"/>
+      <audio clipBegin="44605ms" clipEnd="44875ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- more -->
+      <text src="../011.xhtml#w47"/>
+      <audio clipBegin="44875ms" clipEnd="45325ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- colors -->
+      <text src="../011.xhtml#w48"/>
+      <audio clipBegin="45325ms" clipEnd="46615ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- Flynn -->
+      <text src="../011.xhtml#w49"/>
+      <audio clipBegin="46615ms" clipEnd="46965ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- Rider -->
+      <text src="../011.xhtml#w50"/>
+      <audio clipBegin="46965ms" clipEnd="47495ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- will -->
+      <text src="../011.xhtml#w51"/>
+      <audio clipBegin="47495ms" clipEnd="47745ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- help -->
+      <text src="../011.xhtml#w52"/>
+      <audio clipBegin="47745ms" clipEnd="48215ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id52g">
+      <!--  -->
+      <text src="../011.xhtml#empty1"/>
+      <audio clipBegin="48215ms" clipEnd="49222ms" src="../audio/9781484750193.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,366 @@
+img{z-index:-1;}
+
+body {
+	width: 707px;
+	height: 1060px;
+	margin: 0;
+	border: none;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+@font-face{
+font-family:"CenturyOldStyleStd-Regular";
+src: url(../fonts/CenturyOldStyleStd-Regular.otf);
+}
+
+@font-face{
+font-family:"CenturyOSMTStd";
+src: url(../fonts/CenturyOSMTStd.otf);
+}
+
+@font-face{
+font-family:"TriplexBold";
+src: url(../fonts/TriplexBold.ttf);
+}
+
+@font-face{
+font-family:"TriplexExtraBold";
+src: url(../fonts/TriplexExtraBold.ttf);
+}
+
+@font-face{
+font-family:"TriplexLight";
+src: url(../fonts/TriplexLight.ttf);
+}
+
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 707px;
+	height: 1060px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-size: 46px;
+	line-height: 79px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStd-Regular";
+}
+
+p.nonindent1{
+	font-size: 46px;
+	line-height: 79px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	word-spacing:0px;
+	margin-bottom: 0px;
+	color:white;
+	font-family:"CenturyOldStyleStd-Regular";
+}
+
+p.indent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 780px;
+	left: 113px;
+	right: 0px;
+width: 480px;}
+div.page3_item1{
+	position: absolute;
+	top: 750px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item2{
+	position: absolute;
+	top: 975px;
+	left: 0px;
+	right: 0px;
+}
+div.page5_item1{
+	position: absolute;
+	top: 305px;
+	left: 107px;
+	right: 0px;
+width: 377px;height: 356px;}
+div.page6_item1{
+	position: absolute;
+	top: 695px;
+	left: 106px;
+	right: 0px;
+}
+div.page9_item1{
+	position: absolute;
+	top: 67px;
+	left: 107px;
+	right: 0px;
+width: 391px;height: 252px;}
+div.page11_item1{
+	position: absolute;
+	top: 618px;
+	left: 106px;
+	right: 0px;
+width: 483px;height: 298px;}
+div.page12_item1{
+	position: absolute;
+	top: 68px;
+	left: 105px;
+	right: 0px;
+width: 506px;height: 73px;}
+div.page13_item1{
+	position: absolute;
+	top: 855px;
+	left: 105px;
+	right: 0px;
+width: 291px;height: 63px;}
+div.page14_item1{
+	position: absolute;
+	top: 69px;
+	left: 108px;
+	right: 0px;
+width: 261px;height: 60px;}
+div.page15_item1{
+	position: absolute;
+	top: 68px;
+	left: 106px;
+	right: 0px;
+width: 453px;height: 165px;}
+div.page16_item1{
+	position: absolute;
+	top: 68px;
+	left: 106px;
+	right: 0px;
+width: 372px;height: 187px;}
+div.page19_item1{
+	position: absolute;
+	top: 852px;
+	left: 105px;
+	right: 0px;
+width: 399px;height: 58px;}
+div.page20_item1{
+	position: absolute;
+	top: 68px;
+	left: 106px;
+	right: 0px;
+width: 402px;height: 182px;}
+div.page21_item1{
+	position: absolute;
+	top: 68px;
+	left: 107px;
+	right: 0px;
+width: 268px;height: 81px;}
+div.page23_item1{
+	position: absolute;
+	top: 68px;
+	left: 107px;
+	right: 0px;
+width: 322px;height: 74px;}
+div.page24_item1{
+	position: absolute;
+	top: 780px;
+	left: 108px;
+	right: 0px;
+width: 471px;height: 126px;}
+div.page26_item1{
+	position: absolute;
+	top: 68px;
+	left: 107px;
+	right: 0px;
+width: 384px;height: 159px;}
+div.page27_item1{
+	position: absolute;
+	top: 695px;
+	left: 106px;
+	right: 0px;
+}
+div.page29_item1{
+	position: absolute;
+	top: 68px;
+	left: 107px;
+	right: 0px;
+width: 444px;height: 176px;}
+div.page30_item1{
+	position: absolute;
+	top: 68px;
+	left: 107px;
+	right: 0px;
+width: 542px;height: 259px;}
+div.page32_item1{
+	position: absolute;
+	top: 68px;
+	left: 107px;
+	right: 0px;
+width: 484px;height: 258px;}
+div.page34_item1{
+	position: absolute;
+	top: 411px;
+	left: 40px;
+	right: 0px;
+width: 583px;height: 119px;}
+div.page34_item2{
+	position: absolute;
+	top: 576px;
+	left: 147px;
+	right: 0px;
+width: 464px;height: 57px;}
+div.page34_item3{
+	position: absolute;
+	top: 656px;
+	left: 148px;
+	right: 0px;
+width: 517px;height: 79px;}
+div.page34_item4{
+	position: absolute;
+	top: 748px;
+	left: 147px;
+	right: 0px;
+width: 484px;height: 74px;}
+div.page34_item5{
+	position: absolute;
+	top: 835px;
+	left: 147px;
+	right: 0px;
+width: 498px;height: 67px;}
+
+
+p.copy{
+	font-size: 14px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-family:"CenturyOldStyleStd-Regular";
+}
+
+
+p.copy1{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-family:"CenturyOldStyleStd-Regular";
+}
+
+span.arialp{
+font-family:"arial";
+}
+
+p.author{
+	font-size: 28px;
+	line-height: 43px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOSMTStd";
+}
+
+p.logo{
+	font-size: 19px;
+	line-height: 25px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOSMTStd";
+}
+
+p.title{
+	font-size: 33px;
+	line-height: 40px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	font-family:"TriplexBold";
+	color:white;
+}
+
+p.title1{
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+	color:white;
+}
+
+p.title2{
+	font-size: 25px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexExtraBold";
+	color:white;
+}
+
+p.text{
+	font-size: 18px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+	color:white;
+	margin-left:10px;
+	text-indent:-10px;
+}
+
+.media-overlay-active { color:#f00 !important; }
+
+span.letter{
+letter-spacing:-4px;
+padding-right:4px;
+}

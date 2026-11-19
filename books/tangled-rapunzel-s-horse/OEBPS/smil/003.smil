@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="8845ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="8845ms" clipEnd="9325ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Princess -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="9325ms" clipEnd="11025ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Rapunzel's -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="11025ms" clipEnd="11775ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Heroes -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11775ms" clipEnd="13195ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- written -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="13195ms" clipEnd="13645ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13645ms" clipEnd="14465ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Barbara -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="14465ms" clipEnd="14875ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Bazaldua -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14875ms" clipEnd="16895ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="16895ms" clipEnd="17565ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="17565ms" clipEnd="18505ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Denise -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="18505ms" clipEnd="19125ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Shimabukuro -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="19125ms" clipEnd="20615ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- and -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="20615ms" clipEnd="20875ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Studio -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="20875ms" clipEnd="21555ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- IBOIX -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="21555ms" clipEnd="22225ms" src="../audio/9781484750575.m4a"/>
+    </par>
+    <par id="id15g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="22225ms" clipEnd="23232ms" src="../audio/9781484750575.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id28g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="28927ms" clipEnd="29975ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- Rapunzel -->
+      <text src="../006.xhtml#w28"/>
+      <audio clipBegin="29975ms" clipEnd="30725ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- painted -->
+      <text src="../006.xhtml#w29"/>
+      <audio clipBegin="30725ms" clipEnd="31345ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- the -->
+      <text src="../006.xhtml#w30"/>
+      <audio clipBegin="31345ms" clipEnd="31415ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- walls -->
+      <text src="../006.xhtml#w31"/>
+      <audio clipBegin="31415ms" clipEnd="32565ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- She -->
+      <text src="../006.xhtml#w32"/>
+      <audio clipBegin="32565ms" clipEnd="32835ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- used -->
+      <text src="../006.xhtml#w33"/>
+      <audio clipBegin="32835ms" clipEnd="33365ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- many -->
+      <text src="../006.xhtml#w34"/>
+      <audio clipBegin="33365ms" clipEnd="33915ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- colors -->
+      <text src="../006.xhtml#w35"/>
+      <audio clipBegin="33915ms" clipEnd="34605ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id35g">
+      <!--  -->
+      <text src="../006.xhtml#empty1"/>
+      <audio clipBegin="34605ms" clipEnd="34890ms" src="../audio/9781484750193.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="10036ms" src="../audio/9781423195207.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Rapunzel's -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10036ms" clipEnd="10706ms" src="../audio/9781423195207.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Wedding -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="10706ms" clipEnd="11136ms" src="../audio/9781423195207.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Day -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="11136ms" clipEnd="12416ms" src="../audio/9781423195207.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id159g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="108930ms" clipEnd="110915ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id159">
+      <!-- Rapunzel -->
+      <text src="../016.xhtml#w159"/>
+      <audio clipBegin="110915ms" clipEnd="111495ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id160">
+      <!-- leaves -->
+      <text src="../016.xhtml#w160"/>
+      <audio clipBegin="111495ms" clipEnd="111905ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id161">
+      <!-- the -->
+      <text src="../016.xhtml#w161"/>
+      <audio clipBegin="111905ms" clipEnd="112015ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id162">
+      <!-- tower -->
+      <text src="../016.xhtml#w162"/>
+      <audio clipBegin="112015ms" clipEnd="112585ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id162g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="112585ms" clipEnd="113090ms" src="../audio/9781423195160.m4a"/>
+    </par>
+  </body>
+</smil>

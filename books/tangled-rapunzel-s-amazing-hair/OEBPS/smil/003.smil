@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="8255ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Tangled -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="8255ms" clipEnd="9545ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Rapunzel's -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="9545ms" clipEnd="10325ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Amazing -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="10325ms" clipEnd="10945ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Hair -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="10945ms" clipEnd="12325ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- By -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="12325ms" clipEnd="12585ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Kiki -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="12585ms" clipEnd="12975ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Thorpe -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="12975ms" clipEnd="14115ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="14115ms" clipEnd="14865ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="14865ms" clipEnd="15125ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Clair -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="15125ms" clipEnd="15585ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Keane -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="15585ms" clipEnd="16155ms" src="../audio/9781484750186.m4a"/>
+    </par>
+    <par id="id11g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="16155ms" clipEnd="17000ms" src="../audio/9781484750186.m4a"/>
+    </par>
+  </body>
+</smil>

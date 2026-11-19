@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id61g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="59160ms" clipEnd="59765ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- Flynn -->
+      <text src="../015.xhtml#w61"/>
+      <audio clipBegin="59765ms" clipEnd="60235ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id62">
+      <!-- and -->
+      <text src="../015.xhtml#w62"/>
+      <audio clipBegin="60235ms" clipEnd="60365ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id63">
+      <!-- Rapunzel -->
+      <text src="../015.xhtml#w63"/>
+      <audio clipBegin="60365ms" clipEnd="61055ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id64">
+      <!-- are -->
+      <text src="../015.xhtml#w64"/>
+      <audio clipBegin="61055ms" clipEnd="61175ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id65">
+      <!-- surprised -->
+      <text src="../015.xhtml#w65"/>
+      <audio clipBegin="61175ms" clipEnd="62215ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id65g">
+      <!--  -->
+      <text src="../015.xhtml#empty1"/>
+      <audio clipBegin="62215ms" clipEnd="63330ms" src="../audio/9781484750193.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id255g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="174841ms" clipEnd="176965ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id255">
+      <!-- Rapunzel -->
+      <text src="../026.xhtml#w255"/>
+      <audio clipBegin="176965ms" clipEnd="177595ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id256">
+      <!-- sees -->
+      <text src="../026.xhtml#w256"/>
+      <audio clipBegin="177595ms" clipEnd="177965ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id257">
+      <!-- the -->
+      <text src="../026.xhtml#w257"/>
+      <audio clipBegin="177965ms" clipEnd="178065ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id258">
+      <!-- lights -->
+      <text src="../026.xhtml#w258"/>
+      <audio clipBegin="178065ms" clipEnd="179385ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id259">
+      <!-- She -->
+      <text src="../026.xhtml#w259"/>
+      <audio clipBegin="179385ms" clipEnd="179885ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id260">
+      <!-- and -->
+      <text src="../026.xhtml#w260"/>
+      <audio clipBegin="179885ms" clipEnd="180105ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id261">
+      <!-- Flynn -->
+      <text src="../026.xhtml#w261"/>
+      <audio clipBegin="180105ms" clipEnd="180585ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id262">
+      <!-- fall -->
+      <text src="../026.xhtml#w262"/>
+      <audio clipBegin="180585ms" clipEnd="180945ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id263">
+      <!-- in -->
+      <text src="../026.xhtml#w263"/>
+      <audio clipBegin="180945ms" clipEnd="181105ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id264">
+      <!-- love -->
+      <text src="../026.xhtml#w264"/>
+      <audio clipBegin="181105ms" clipEnd="181585ms" src="../audio/9781423195160.m4a"/>
+    </par>
+    <par id="id264g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="181585ms" clipEnd="182195ms" src="../audio/9781423195160.m4a"/>
+    </par>
+  </body>
+</smil>

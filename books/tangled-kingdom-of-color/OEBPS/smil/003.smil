@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="8755ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Tangled -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="8755ms" clipEnd="10105ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Kingdom -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="10105ms" clipEnd="10745ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- of -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10745ms" clipEnd="10895ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Color -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="10895ms" clipEnd="12165ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- By -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12165ms" clipEnd="12405ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Melissa -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="12405ms" clipEnd="12975ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Lagonegro -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="12975ms" clipEnd="14715ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14715ms" clipEnd="15505ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="15505ms" clipEnd="15785ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Jean -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="15785ms" clipEnd="16245ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Paul -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="16245ms" clipEnd="16525ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Orpiñas -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="16525ms" clipEnd="17915ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Elena -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="17915ms" clipEnd="18245ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Naggi -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="18245ms" clipEnd="19265ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- and -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="19265ms" clipEnd="19435ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Studio -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="19435ms" clipEnd="20195ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- IBOIX -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="20195ms" clipEnd="20915ms" src="../audio/9781484750193.m4a"/>
+    </par>
+    <par id="id17g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="20915ms" clipEnd="21879ms" src="../audio/9781484750193.m4a"/>
+    </par>
+  </body>
+</smil>
