@@ -1,0 +1,333 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"liam-regular";
+	src: url(../fonts/Liam.otf);
+}
+@font-face {
+	font-family:"pinch-regular";
+	src: url(../fonts/Pinch.otf);
+}
+.font-1 {
+	font-family:"pinch-regular";
+	font-size:17px;
+}
+.font-1a {
+	font-family:"pinch-regular";
+	font-size:10.5px;
+}
+.font-2 {
+	font-family:"liam-regular";
+	font-size:210px;
+	color:#D6B74B;
+	fill:#D6B74B;
+}
+
+.font-3 {
+	font-family:"liam-regular";
+	font-size:70px;
+	color:#D6B74B;
+	fill:#D6B74B;
+}
+.font-4 {
+	font-family:"liam-regular";
+	font-size:90px;
+	color:#D6B74B;
+	fill:#D6B74B;
+}
+.font-5 {
+	font-family:"liam-regular";
+	font-size:61px;
+	line-height:49px;
+	color:#CD2135;
+}
+.font-5a {
+	font-family:"liam-regular";
+	font-size:61px;
+	line-height:49px;
+	color:#CD2135;
+}
+.font-5a span.media-overlay-active {color: #8b7edc !important;}
+
+
+.font-6 {
+	font-family:"pinch-regular";
+	font-size:27px;
+	line-height:35px;
+}
+.font-7 {
+	font-family:"liam-regular";
+	font-size:23px;
+	line-height:40px;
+}
+.font-8 {
+	font-family:"liam-regular";
+	font-size:30px;
+	line-height:35px;
+	color:#CD2135;
+}
+.font-8a {
+	font-family:"liam-regular";
+	font-size:30px;
+	line-height:35px;
+	color:#CD2135;
+}
+.font-8a span.media-overlay-active {color: #8b7edc !important;}
+
+.font-9 {
+	font-family:"liam-regular";
+	font-size:27px;
+	line-height:39px;
+}
+.font-10 {
+	font-family:"pinch-regular";
+	font-size:27px;
+	line-height:36px;
+}
+.font-11 {
+	font-family:"pinch-regular";
+	font-size:23px;
+	line-height:36px;
+}
+.font-12 {
+	font-family:"liam-regular";
+	font-size:105px;
+	color:#CD2135;
+}
+.font-12a {
+	font-family:"liam-regular";
+	font-size:105px;
+	color:#CD2135;
+}
+.font-12a span.media-overlay-active {color: #8b7edc !important;}
+
+.font-13 {
+	font-family:"pinch-regular";
+	font-size:50px;
+	line-height:50px;
+}
+.font-14 {
+	font-family:"pinch-regular";
+	font-size:63px;
+}
+.font-15 {
+	font-family:"pinch-regular";
+	font-size:150px;
+}
+.font-16 {
+	font-family:"liam-regular";
+	font-size:155px;
+	color:#CD2135;
+}
+.font-16 span.media-overlay-active {color: #8b7edc !important;}
+
+.font-17 {
+	font-family:"pinch-regular";
+	font-size:37px;
+	line-height:46px;
+	letter-spacing:0.5px;
+}
+.font-18 {
+	font-family:"pinch-regular";
+	font-size:38px;
+	line-height:65px;
+}
+.font-19 {
+	font-family:"pinch-regular";
+	font-size:65px;
+	line-height:65px;
+}
+.font-20 {
+	font-family:"liam-regular";
+	font-size:50px;
+	line-height:65px;
+	color:#CD2135;
+	fill:#CD2135;
+	letter-spacing:1x;
+}
+.font-20 tspan.media-overlay-active {fill: #8b7edc !important;}
+
+
+.font-21 {
+	font-family:"pinch-regular";
+	font-size:53px;
+	line-height:65px;
+}
+.font-22 {
+	font-family:"liam-regular";
+	font-size:66px;
+	line-height:65px;
+}
+.font-23 {
+	font-family:"pinch-regular";
+	font-size:66px;
+	line-height:50px;
+}
+.font-24 {
+	font-family:"liam-regular";
+	font-size:50px;
+	color:#CD2135;
+	fill:#CD2135;
+}
+.font-24 tspan.media-overlay-active {fill: #8b7edc !important;}
+
+
+.font-25 {
+	font-family:"pinch-regular";
+	font-size:63px;
+	line-height:50px;
+}
+.font-26 {
+	font-family:"pinch-regular";
+	font-size:49px;
+	line-height:46px;
+	letter-spacing:1px;
+}
+.font-27 {
+	font-family:"liam-regular";
+	font-size:51px;
+	line-height:46px;
+	color:#CD2135;
+}
+.font-27 span.media-overlay-active {color: #8b7edc !important;}
+
+.font-28 {
+	font-family:"pinch-regular";
+	font-size:53px;
+	line-height:46px;
+}
+.font-29 {
+	font-family:"liam-regular";
+	font-size:66px;
+	color:#CD2135;
+	fill:#CD2135;
+}
+.font-29 tspan.media-overlay-active {fill: #8b7edc !important;}
+
+.font-30 {
+	font-family:"liam-regular";
+	font-size:66px;
+	line-height:187px;
+}
+.font-31 {
+	font-family:"pinch-regular";
+	font-size:63px;
+	line-height:50px;
+}
+.font-32 {
+	font-family:"pinch-regular";
+	font-size:48px;
+	line-height:68px;
+}
+.font-33 {
+	font-family:"pinch-regular";
+	font-size:48px;
+	line-height:62px;
+}
+.font-34 {
+	font-family:"pinch-regular";
+	font-size:53px;
+	line-height:62px;
+}
+.font-35 {
+	font-family:"pinch-regular";
+	font-size:62px;
+	line-height:68px;
+}
+.font-36 {
+	font-family:"pinch-regular";
+	font-size:78px;
+	line-height:68px;
+}
+.font-37 {
+	font-family:"pinch-regular";
+	font-size:51px;
+	line-height:59px;
+}
+.font-38 {
+	font-family:"liam-regular";
+	font-size:75px;
+	line-height:60px;
+	color:#CD2135;
+	fill:#CD2135;
+}
+.font-38a {
+	font-family:"liam-regular";
+	font-size:69px;
+	line-height:60px;
+	color:#CD2135;
+	fill:#CD2135;
+}
+.font-38a tspan.media-overlay-active {fill: #8b7edc !important;}
+
+.font-39 {
+	font-family:"pinch-regular";
+	font-size:75px;
+	line-height:50px;
+}
+.font-40 {
+	font-family:"liam-regular";
+	font-size:103px;
+	color:#CD2135;
+}
+.font-40 span.media-overlay-active {color: #8b7edc !important;}
+
+.font-41 {
+	font-family:"liam-regular";
+	font-size:109px;
+	color:#CD2135;
+	fill:#CD2135;
+}
+.font-41 tspan.media-overlay-active {fill: #8b7edc !important;}
+.font-41 span.media-overlay-active {color: #8b7edc !important;}
+
+.font-42 {
+	font-family:"liam-regular";
+	font-size:85px;
+	color:#CD2135;
+	fill:#CD2135;
+}
+.font-42 tspan.media-overlay-active {fill: #8b7edc !important;}
+
+.font-43 {
+	font-family:"liam-regular";
+	font-size:65px;
+	color:#CD2135;
+}
+.font-43 span.media-overlay-active {color: #8b7edc !important;}
+
+
+.m1 {
+	margin-bottom:15px !important;
+}
+.m2 {
+	margin-bottom:13px !important;
+}
+.m3 {
+	margin-right:-11px !important;
+}
+.m4 {
+	margin-left:20px !important;
+}
+.lh1 {
+	line-height:17px !important;
+}
+
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00; fill:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:949px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:949px; overflow:hidden; position:relative; background-size:100% 100%; }
+.pageKF8-single { width:738px; height:949px; position:relative; background-size:100% 100%; left:25%; }
+/*span { color:#f6f !important; }*/

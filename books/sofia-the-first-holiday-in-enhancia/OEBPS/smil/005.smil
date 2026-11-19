@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id28g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="26910ms" clipEnd="27415ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- This -->
+      <text src="../005.xhtml#w28"/>
+      <audio clipBegin="27415ms" clipEnd="27705ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- will -->
+      <text src="../005.xhtml#w29"/>
+      <audio clipBegin="27705ms" clipEnd="27865ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- be -->
+      <text src="../005.xhtml#w30"/>
+      <audio clipBegin="27865ms" clipEnd="28095ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- Sofia's -->
+      <text src="../005.xhtml#w31"/>
+      <audio clipBegin="28095ms" clipEnd="28805ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- first -->
+      <text src="../005.xhtml#w32"/>
+      <audio clipBegin="28805ms" clipEnd="29215ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- Wassailia -->
+      <text src="../005.xhtml#w33"/>
+      <audio clipBegin="29215ms" clipEnd="29915ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- holiday -->
+      <text src="../005.xhtml#w34"/>
+      <audio clipBegin="29915ms" clipEnd="30425ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- in -->
+      <text src="../005.xhtml#w35"/>
+      <audio clipBegin="30425ms" clipEnd="30555ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- the -->
+      <text src="../005.xhtml#w36"/>
+      <audio clipBegin="30555ms" clipEnd="30635ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id37">
+      <!-- castle -->
+      <text src="../005.xhtml#w37"/>
+      <audio clipBegin="30635ms" clipEnd="31685ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- and -->
+      <text src="../005.xhtml#w38"/>
+      <audio clipBegin="31685ms" clipEnd="31825ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- she -->
+      <text src="../005.xhtml#w39"/>
+      <audio clipBegin="31825ms" clipEnd="32015ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- doesn't -->
+      <text src="../005.xhtml#w40"/>
+      <audio clipBegin="32015ms" clipEnd="32495ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- want -->
+      <text src="../005.xhtml#w41"/>
+      <audio clipBegin="32495ms" clipEnd="32755ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- to -->
+      <text src="../005.xhtml#w42"/>
+      <audio clipBegin="32755ms" clipEnd="32845ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- miss -->
+      <text src="../005.xhtml#w43"/>
+      <audio clipBegin="32845ms" clipEnd="33145ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- a -->
+      <text src="../005.xhtml#w44"/>
+      <audio clipBegin="33145ms" clipEnd="33385ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- second -->
+      <text src="../005.xhtml#w45"/>
+      <audio clipBegin="33385ms" clipEnd="33825ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id46">
+      <!-- of -->
+      <text src="../005.xhtml#w46"/>
+      <audio clipBegin="33825ms" clipEnd="33995ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- it -->
+      <text src="../005.xhtml#w47"/>
+      <audio clipBegin="33995ms" clipEnd="34245ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id47g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="34245ms" clipEnd="35090ms" src="../audio/9781423193234.m4a"/>
+    </par>
+  </body>
+</smil>

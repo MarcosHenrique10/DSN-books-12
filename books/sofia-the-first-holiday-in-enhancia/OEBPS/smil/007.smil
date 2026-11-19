@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id73g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="46785ms" clipEnd="47235ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id73">
+      <!-- There's -->
+      <text src="../007.xhtml#w73"/>
+      <audio clipBegin="47235ms" clipEnd="47431ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id74">
+      <!-- a -->
+      <text src="../007.xhtml#w74"/>
+      <audio clipBegin="47431ms" clipEnd="47575ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id75">
+      <!-- ton -->
+      <text src="../007.xhtml#w75"/>
+      <audio clipBegin="47575ms" clipEnd="48285ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id76">
+      <!-- of -->
+      <text src="../007.xhtml#w76"/>
+      <audio clipBegin="48285ms" clipEnd="48435ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id77">
+      <!-- food -->
+      <text src="../007.xhtml#w77"/>
+      <audio clipBegin="48435ms" clipEnd="49795ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id78">
+      <!-- a -->
+      <text src="../007.xhtml#w78"/>
+      <audio clipBegin="49795ms" clipEnd="49885ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id79">
+      <!-- giant -->
+      <text src="../007.xhtml#w79"/>
+      <audio clipBegin="49885ms" clipEnd="50595ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id80">
+      <!-- Wassailia -->
+      <text src="../007.xhtml#w80"/>
+      <audio clipBegin="50595ms" clipEnd="51265ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id81">
+      <!-- willow -->
+      <text src="../007.xhtml#w81"/>
+      <audio clipBegin="51265ms" clipEnd="52775ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id82">
+      <!-- a -->
+      <text src="../007.xhtml#w82"/>
+      <audio clipBegin="52775ms" clipEnd="52865ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id83">
+      <!-- fancy -->
+      <text src="../007.xhtml#w83"/>
+      <audio clipBegin="52865ms" clipEnd="53565ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- Wassailia -->
+      <text src="../007.xhtml#w84"/>
+      <audio clipBegin="53565ms" clipEnd="54225ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- candle -->
+      <text src="../007.xhtml#w85"/>
+      <audio clipBegin="54225ms" clipEnd="55995ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- and -->
+      <text src="../007.xhtml#w86"/>
+      <audio clipBegin="55995ms" clipEnd="56185ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- lots -->
+      <text src="../007.xhtml#w87"/>
+      <audio clipBegin="56185ms" clipEnd="56725ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id88">
+      <!-- and -->
+      <text src="../007.xhtml#w88"/>
+      <audio clipBegin="56725ms" clipEnd="56845ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id89">
+      <!-- lots -->
+      <text src="../007.xhtml#w89"/>
+      <audio clipBegin="56845ms" clipEnd="57365ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id90">
+      <!-- of -->
+      <text src="../007.xhtml#w90"/>
+      <audio clipBegin="57365ms" clipEnd="57545ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id91">
+      <!-- gifts -->
+      <text src="../007.xhtml#w91"/>
+      <audio clipBegin="57545ms" clipEnd="58205ms" src="../audio/9781423193234.m4a"/>
+    </par>
+    <par id="id91g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="58205ms" clipEnd="59085ms" src="../audio/9781423193234.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id858g">
+      <!--  -->
+      <text src="../028.xhtml#empty"/>
+      <audio clipBegin="476615ms" clipEnd="477309ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id858">
+      <!-- Sofia -->
+      <text src="../028.xhtml#w858"/>
+      <audio clipBegin="477309ms" clipEnd="477989ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id859">
+      <!-- turns -->
+      <text src="../028.xhtml#w859"/>
+      <audio clipBegin="477989ms" clipEnd="478809ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id860">
+      <!-- and -->
+      <text src="../028.xhtml#w860"/>
+      <audio clipBegin="478809ms" clipEnd="479009ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id861">
+      <!-- gasps -->
+      <text src="../028.xhtml#w861"/>
+      <audio clipBegin="479009ms" clipEnd="479719ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id862">
+      <!-- when -->
+      <text src="../028.xhtml#w862"/>
+      <audio clipBegin="479719ms" clipEnd="479999ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id863">
+      <!-- she -->
+      <text src="../028.xhtml#w863"/>
+      <audio clipBegin="479999ms" clipEnd="480199ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id864">
+      <!-- sees -->
+      <text src="../028.xhtml#w864"/>
+      <audio clipBegin="480199ms" clipEnd="480669ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id865">
+      <!-- Princess -->
+      <text src="../028.xhtml#w865"/>
+      <audio clipBegin="480669ms" clipEnd="481459ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id866">
+      <!-- Merida -->
+      <text src="../028.xhtml#w866"/>
+      <audio clipBegin="481459ms" clipEnd="482379ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id867">
+      <!-- step -->
+      <text src="../028.xhtml#w867"/>
+      <audio clipBegin="482379ms" clipEnd="482769ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id868">
+      <!-- into -->
+      <text src="../028.xhtml#w868"/>
+      <audio clipBegin="482769ms" clipEnd="482999ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id869">
+      <!-- view -->
+      <text src="../028.xhtml#w869"/>
+      <audio clipBegin="482999ms" clipEnd="484389ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id870">
+      <!-- Sofia's -->
+      <text src="../028.xhtml#w870"/>
+      <audio clipBegin="484389ms" clipEnd="485209ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id871">
+      <!-- amulet -->
+      <text src="../028.xhtml#w871"/>
+      <audio clipBegin="485209ms" clipEnd="485819ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id872">
+      <!-- brought -->
+      <text src="../028.xhtml#w872"/>
+      <audio clipBegin="485819ms" clipEnd="486109ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id873">
+      <!-- her -->
+      <text src="../028.xhtml#w873"/>
+      <audio clipBegin="486109ms" clipEnd="486259ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id874">
+      <!-- to -->
+      <text src="../028.xhtml#w874"/>
+      <audio clipBegin="486259ms" clipEnd="486419ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id875">
+      <!-- help -->
+      <text src="../028.xhtml#w875"/>
+      <audio clipBegin="486419ms" clipEnd="486879ms" src="../audio/9781484718803.m4a"/>
+    </par>
+    <par id="id875g">
+      <!--  -->
+      <text src="../028.xhtml#empty"/>
+      <audio clipBegin="486879ms" clipEnd="487379ms" src="../audio/9781484718803.m4a"/>
+    </par>
+  </body>
+</smil>
