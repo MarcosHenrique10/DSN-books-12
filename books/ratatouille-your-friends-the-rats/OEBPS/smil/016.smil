@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id192g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="111208ms" clipEnd="112183ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- Rats -->
+			<text src="../016.xhtml#w192"/>
+			<audio clipBegin="112183ms" clipEnd="112633ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- have -->
+			<text src="../016.xhtml#w193"/>
+			<audio clipBegin="112633ms" clipEnd="112883ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- amazing -->
+			<text src="../016.xhtml#w194"/>
+			<audio clipBegin="112883ms" clipEnd="113683ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- physical -->
+			<text src="../016.xhtml#w195"/>
+			<audio clipBegin="113683ms" clipEnd="114113ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- abilities -->
+			<text src="../016.xhtml#w196"/>
+			<audio clipBegin="114113ms" clipEnd="115323ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- We -->
+			<text src="../016.xhtml#w197"/>
+			<audio clipBegin="115323ms" clipEnd="115643ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- can -->
+			<text src="../016.xhtml#w198"/>
+			<audio clipBegin="115643ms" clipEnd="115823ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id199">
+			<!-- swim -->
+			<text src="../016.xhtml#w199"/>
+			<audio clipBegin="115823ms" clipEnd="116163ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id200">
+			<!-- for -->
+			<text src="../016.xhtml#w200"/>
+			<audio clipBegin="116163ms" clipEnd="116363ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id201">
+			<!-- up -->
+			<text src="../016.xhtml#w201"/>
+			<audio clipBegin="116363ms" clipEnd="116493ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id202">
+			<!-- to -->
+			<text src="../016.xhtml#w202"/>
+			<audio clipBegin="116493ms" clipEnd="116623ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id203">
+			<!-- three -->
+			<text src="../016.xhtml#w203"/>
+			<audio clipBegin="116623ms" clipEnd="117073ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id204">
+			<!-- days -->
+			<text src="../016.xhtml#w204"/>
+			<audio clipBegin="117073ms" clipEnd="117693ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id204g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="117693ms" clipEnd="118238ms" src="../audio/9781484786376.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="11920ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Scamp -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="11920ms" clipEnd="12960ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- The -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="12960ms" clipEnd="13080ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Adventures -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="13080ms" clipEnd="13920ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- of -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13920ms" clipEnd="14030ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- a -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="14030ms" clipEnd="14090ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- little -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="14090ms" clipEnd="14510ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Puppy -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="14510ms" clipEnd="15360ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Pictures -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="15360ms" clipEnd="16400ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="16400ms" clipEnd="16550ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- the -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="16550ms" clipEnd="16650ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Walt -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="16650ms" clipEnd="16990ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Disney -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="16990ms" clipEnd="17280ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Studio -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="17280ms" clipEnd="18510ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="18510ms" clipEnd="19090ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- by -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="19090ms" clipEnd="19300ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- Norm -->
+			<text src="../003.xhtml#w16"/>
+			<audio clipBegin="19300ms" clipEnd="19690ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- McGary -->
+			<text src="../003.xhtml#w17"/>
+			<audio clipBegin="19690ms" clipEnd="20630ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- and -->
+			<text src="../003.xhtml#w18"/>
+			<audio clipBegin="20630ms" clipEnd="20760ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Joe -->
+			<text src="../003.xhtml#w19"/>
+			<audio clipBegin="20760ms" clipEnd="21070ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- Rinaldi -->
+			<text src="../003.xhtml#w20"/>
+			<audio clipBegin="21070ms" clipEnd="21914ms" src="../audio/9781484787168.m4a"/>
+		</par>
+		<par id="id20a">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="21914ms" clipEnd="22357ms" src="../audio/9781484787168.m4a"/>
+		</par>
+	</body>
+</smil>

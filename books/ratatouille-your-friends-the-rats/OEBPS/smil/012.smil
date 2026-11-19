@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id133g">
+			<!--  -->
+			<text src="../012.xhtml#empty"/>
+			<audio clipBegin="84523ms" clipEnd="85393ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id133">
+			<!-- In -->
+			<text src="../012.xhtml#w133"/>
+			<audio clipBegin="85393ms" clipEnd="85703ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id134">
+			<!-- India -->
+			<text src="../012.xhtml#w134"/>
+			<audio clipBegin="85703ms" clipEnd="86543ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id135">
+			<!-- the -->
+			<text src="../012.xhtml#w135"/>
+			<audio clipBegin="86543ms" clipEnd="86693ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id136">
+			<!-- Hindu -->
+			<text src="../012.xhtml#w136"/>
+			<audio clipBegin="86693ms" clipEnd="87103ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id137">
+			<!-- god -->
+			<text src="../012.xhtml#w137"/>
+			<audio clipBegin="87103ms" clipEnd="87393ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id138">
+			<!-- Ganesha -->
+			<text src="../012.xhtml#w138"/>
+			<audio clipBegin="87393ms" clipEnd="88063ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id139">
+			<!-- rides -->
+			<text src="../012.xhtml#w139"/>
+			<audio clipBegin="88063ms" clipEnd="88373ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id140">
+			<!-- around -->
+			<text src="../012.xhtml#w140"/>
+			<audio clipBegin="88373ms" clipEnd="88783ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id141">
+			<!-- on -->
+			<text src="../012.xhtml#w141"/>
+			<audio clipBegin="88783ms" clipEnd="88943ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id142">
+			<!-- a -->
+			<text src="../012.xhtml#w142"/>
+			<audio clipBegin="88943ms" clipEnd="89063ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id143">
+			<!-- rat -->
+			<text src="../012.xhtml#w143"/>
+			<audio clipBegin="89063ms" clipEnd="89353ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id144">
+			<!-- friend -->
+			<text src="../012.xhtml#w144"/>
+			<audio clipBegin="89353ms" clipEnd="89853ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id144g">
+			<!--  -->
+			<text src="../012.xhtml#empty1"/>
+			<audio clipBegin="89853ms" clipEnd="90373ms" src="../audio/9781484786376.m4a"/>
+		</par>
+	</body>
+</smil>

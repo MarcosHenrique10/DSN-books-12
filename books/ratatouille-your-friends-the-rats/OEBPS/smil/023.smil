@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id321g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="172013ms" clipEnd="172573ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id321">
+			<!-- This -->
+			<text src="../023.xhtml#w321"/>
+			<audio clipBegin="172573ms" clipEnd="172813ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id322">
+			<!-- has -->
+			<text src="../023.xhtml#w322"/>
+			<audio clipBegin="172813ms" clipEnd="173003ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id323">
+			<!-- taught -->
+			<text src="../023.xhtml#w323"/>
+			<audio clipBegin="173003ms" clipEnd="173223ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id324">
+			<!-- humans -->
+			<text src="../023.xhtml#w324"/>
+			<audio clipBegin="173223ms" clipEnd="173803ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id325">
+			<!-- about -->
+			<text src="../023.xhtml#w325"/>
+			<audio clipBegin="173803ms" clipEnd="174063ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id326">
+			<!-- how -->
+			<text src="../023.xhtml#w326"/>
+			<audio clipBegin="174063ms" clipEnd="174253ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id327">
+			<!-- the -->
+			<text src="../023.xhtml#w327"/>
+			<audio clipBegin="174253ms" clipEnd="174363ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id328">
+			<!-- body -->
+			<text src="../023.xhtml#w328"/>
+			<audio clipBegin="174363ms" clipEnd="174893ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id329">
+			<!-- adapts -->
+			<text src="../023.xhtml#w329"/>
+			<audio clipBegin="174893ms" clipEnd="175343ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id330">
+			<!-- to -->
+			<text src="../023.xhtml#w330"/>
+			<audio clipBegin="175343ms" clipEnd="175453ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id331">
+			<!-- weightlessness -->
+			<text src="../023.xhtml#w331"/>
+			<audio clipBegin="175453ms" clipEnd="176263ms" src="../audio/9781484786376.m4a"/>
+		</par>
+		<par id="id331g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="176263ms" clipEnd="177138ms" src="../audio/9781484786376.m4a"/>
+		</par>
+	</body>
+</smil>
